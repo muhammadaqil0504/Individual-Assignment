@@ -1,8 +1,8 @@
 # Realtime Chat Application (Angular 20 & Supabase)
 
 ## Student Details
-* Name: [SABRAN BIN ELIAS]
-* Student ID: [2024645474]
+* Name: [MUHAMMAD 'AQIL BIN RASLI]
+* Student ID: [2024420932]
 * Group: [CDCS2703A]
 * Lecturer Name: [MUHAMMAD ATIF BIN RAMLAN]
 
